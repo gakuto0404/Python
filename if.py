@@ -1,8 +1,8 @@
 age = 0
 
 if age >= 20:
-  print("adult")
+    print("adult")
 elif age == 0:
-  print("baby")
+    print("baby")
 else:
-  print("child")
+    print("child")
